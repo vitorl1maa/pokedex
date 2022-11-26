@@ -1,4 +1,4 @@
-<h1 align="center"> Pokedex </h1>
+<h1 align="center"> Pokédex </h1>
 
 
 <p align="center">
